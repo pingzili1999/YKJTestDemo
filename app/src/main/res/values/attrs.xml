@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WeatherLineView">
+        <!-- 是否画两个线 -->
+        <attr name = "weaLineIsTwo" format = "boolean" />
+        <!-- 文字大小 -->
+        <attr name="temperTextSize" format="dimension"/>
+        <!-- 文字的颜色 -->
+        <attr name="weaTextColor" format="color"/>
+        <!-- 绘制线1的颜色 -->
+        <attr name="weaLineAColor" format="color"/>
+        <!-- 绘制线2的颜色 -->
+        <attr name="weaLineBColor" format="color"/>
+        <!-- 绘制圆点的颜色 -->
+        <attr name="weaDotBColor" format="color"/>
+        <!-- 绘制的线的宽度 -->
+        <attr name="weaLineWidth" format="dimension"/>
+        <!-- 绘制的圆点的半径 -->
+        <attr name="weaDotRadius" format="dimension"/>
+        <!-- 文字离圆点的距离 -->
+        <attr name="textDotDistance" format="dimension"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="ColumnAndLineView">
+        <!-- 柱状图文字大小 -->
+        <attr name="columnTextSize" format="dimension"/>
+        <!-- 左侧线上文字大小 -->
+        <attr name="leftTextSize" format="dimension"/>
+        <!-- 文字的颜色 -->
+        <attr name="columnTextColor" format="color"/>
+        <!-- 绘制线的颜色 -->
+        <attr name="lineColor" format="color"/>
+        <!-- 绘制柱状图的颜色 -->
+        <attr name="columnBColor" format="color"/>
+        <!-- 绘制圆点的颜色 -->
+        <attr name="dotColor" format="color"/>
+        <!-- 绘制的线的宽度 -->
+        <attr name="lineWidth" format="dimension"/>
+        <!-- 绘制的圆点的半径 -->
+        <attr name="dotRadius" format="dimension"/>
+        <!-- 文字离圆点的距离 -->
+        <attr name="cTextDotDistance" format="dimension"/>
+        <!--数据单位-->
+        <attr name="unitText" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="Today24HourView">
+        <!--&lt;!&ndash; view的宽度 &ndash;&gt;-->
+        <!--<attr name = "viewWidth" format = "dimension" />-->
+        <!-- 定义view高度 -->
+        <attr name="viewHeight" format="dimension"/>
+        <!-- 每个item的宽带以计算view的宽度 -->
+        <attr name="itemWidth" format="dimension"/>
+        <!-- item距离左右两边的宽度 -->
+        <attr name="marginLeftItem" format="dimension"/>
+        <attr name="marginRightItem" format="dimension"/>
+        <attr name="bottomTextHeight" format="dimension"/>
+        <!-- 绘制温度线和文字颜色 -->
+        <attr name="lineAndTextColor" format="color"/>
+        <!-- 绘制折线的颜色 -->
+        <attr name="todayHourLineColor" format="color"/>
+        <!--底部数据单位-->
+        <attr name="todayHourUnitText" format="string"/>
+        <!--文字大小 -->
+        <attr name="todayHourTextSize" format="dimension"/>
+        <!--圆形大小 -->
+        <attr name="todayHourDotSize" format="dimension"/>
+    </declare-styleable>
+</resources>
