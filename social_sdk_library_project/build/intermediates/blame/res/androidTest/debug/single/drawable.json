@@ -212,12 +212,12 @@
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_pocket_gray.png"
     },
     {
-        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_pinterest.png",
-        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_pinterest.png"
-    },
-    {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_red.9.png",
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_pinterest.png",
+        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_pinterest.png"
     },
     {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_x_button.png",
@@ -236,12 +236,12 @@
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_evernote.png"
     },
     {
-        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sina_web_default.png",
-        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\sina_web_default.png"
-    },
-    {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_oauth_check_off.png",
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\sina_web_default.png",
+        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\sina_web_default.png"
     },
     {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_pocket.png",
@@ -452,12 +452,12 @@
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_renren_on.png"
     },
     {
-        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
-        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
-    },
-    {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_button_login_normal.png",
         "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\bundles\\debug\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
     },
     {
         "merged": "D:\\workingSpace\\YKJ\\social_sdk_library_project\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\umeng_socialize_fetch_image.png",
